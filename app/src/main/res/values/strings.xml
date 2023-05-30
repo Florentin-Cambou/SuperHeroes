@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">SuperHeroes</string>
+
+    <string name="heroes_1">Électraflux</string>
+    <string name="heroes_2">Ombraegis</string>
+    <string name="heroes_3">Vélocitrice</string>
+    <string name="heroes_4">Pyrovaillance</string>
+    <string name="heroes_5">Novastride</string>
+    <string name="heroes_6">Sentinelloc</string>
+
+    <string name="desc_1">Elle a le pouvoir de contrôler et de manipuler l\'électricité.</string>
+    <string name="desc_2">Il possède le pouvoir de se fondre dans les ombres</string>
+    <string name="desc_3">Elle a une vitesse surhumaine</string>
+    <string name="desc_4">Il maîtrise le feu</string>
+    <string name="desc_5"> Il possède le pouvoir de manipuler l\'énergie stellaire.</string>
+    <string name="desc_6">Il a la capacité de communiquer et de contrôler les machines</string>
+
 </resources>
